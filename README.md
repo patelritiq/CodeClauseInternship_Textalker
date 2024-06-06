@@ -1,4 +1,4 @@
-#Textalker
+# Textalker
 Textalker is a user-friendly Python application that converts text into speech.
 Leveraging the pyttsx3 library for speech synthesis and tkinter for the graphical user interface, Textalker allows users to input text, select from various voices, and adjust the speech rate for a customized listening experience. 
 This tool is perfect for creating audio versions of text content, aiding the visually impaired, or adding a unique element to presentations and projects.
